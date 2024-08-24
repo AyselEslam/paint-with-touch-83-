@@ -1,0 +1,16 @@
+body{
+  background-image: url("depositphotos_70531635-stock-photo-art-spring-flowers-frame-background.jpg");
+  background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  canvas{
+    background-color:white;
+    border-width: 10px;
+    border-color: rgb(215, 0, 215);
+    border-style: ridge;
+  }
+
+  .input{
+    background-color: white;
+  }
